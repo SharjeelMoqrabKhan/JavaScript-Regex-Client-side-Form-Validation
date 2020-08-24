@@ -1,7 +1,7 @@
 # JavaScript-Regex-Client-side-Form-Validation
 ## In this project i have used a responsive form by using bootstrap  and for from validation has been done by using regex in ES6.
 
-##Layout of registration page
+## Layout of registration page
 ![screencapture-127-0-0-1-5500-index-html-2020-08-24-17_32_57](https://user-images.githubusercontent.com/38564835/91047014-dab0e200-e632-11ea-9c57-dd97c9afad1e.png)
 
 ## if errors in filling the feilds from will not subbmitted
